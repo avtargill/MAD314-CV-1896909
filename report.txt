@@ -1,0 +1,10 @@
+ls - To list all all the files and folders in the current directory. All of the files showed up. I used them to see all the files and folders in present directory. 
+pwd - To show present working directory. Showed present working directory. I used this to see present working directory.
+mkdir InClassAssignment - It makes a directory naming InClassAssignment in present working directory. It makes a InClassAssignmrnt folder. I am using this to create a new directory.
+cd InClassAssignment - I am using this to change our directory to InClassAssignment. It goes to InClassAssignment and makes it present working directory. I used this to work in the new directory.
+git clone "https://github.com/avtargill/MAD314-CV-1896909"- I used this to clone my git repository. The online git repository copied to local repository. .
+git pull "https://github.com/richbighouse/mad-314-cv-assignment" - I used it to fetch all files from mad-314-cv-assignment. The instructions.txt file get copied to our local repository. I am using thid to copy a file to my repository.
+cd. > report.txt - I am using this to make a new file naming report.txt. It created a text file naming report. I used this to generate a new file.
+git add -A - I am using this to add all files in staged state. It put all files to staged state. I used this to add this to staged state so the changes can be commited.
+git commit -m "This is step 5 of instructions.txt"- I am using this to commit changes. The changes of files will be commited and is ready to be pushed. I used this to commit the changes to be pushed to online repo.
+git push - I am using this to push the commited files to ionline repo. The files will be pushed/uploaded to online repo. I used this to upload my finalized work to online repo.
