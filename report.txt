@@ -1,4 +1,4 @@
-ls - To list all all the files and folders in the current directory. All of the files showed up. I used them to see all the files and folders in present directory. 
+ls - I used this to list all the files and folders in the current directory. All of the files showed up. I used them to see all the files and folders in present directory. 
 pwd - To show present working directory. Showed present working directory. I used this to see present working directory.
 mkdir InClassAssignment - It makes a directory naming InClassAssignment in present working directory. It makes a InClassAssignmrnt folder. I am using this to create a new directory.
 cd InClassAssignment - I am using this to change our directory to InClassAssignment. It goes to InClassAssignment and makes it present working directory. I used this to work in the new directory.
